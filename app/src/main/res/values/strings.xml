@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mobile for TravelJapan</string>
+    <string-array name="countries">
+        <item>Japan</item>
+        <item>ThaiLand</item>
+    </string-array>
+</resources>

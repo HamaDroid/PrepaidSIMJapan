@@ -1,0 +1,7 @@
+#Sat Jun 03 16:29:32 JST 2017
+base.0=D\:\\PrepaidSIMJapan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c8ea79fd69cd5978b36aed757808a632c1b41cd8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\PrepaidSIMJapan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cccba0e72a7c9ce1bf060a23a359dc3d6f82d2f7\\classes.dex
+base.1=D\:\\PrepaidSIMJapan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_cccba0e72a7c9ce1bf060a23a359dc3d6f82d2f7
+file.0=D\:\\PrepaidSIMJapan\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_c8ea79fd69cd5978b36aed757808a632c1b41cd8\\classes.dex
